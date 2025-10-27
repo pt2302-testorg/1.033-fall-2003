@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/13c899f9ab841a0fc55bab1e54114f76_lecture_ii_3.pdf
+file_size: 165353
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

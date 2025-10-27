@@ -2,6 +2,7 @@
 content_type: resource
 description: Why Do Sandcastles Fall?
 file: /courses/1-033-mechanics-of-material-systems-an-energy-approach-fall-2003/e302c40560cb31316bd3f0691a586a23_sandcastles.pdf
+file_size: 61464
 file_type: application/pdf
 learning_resource_types:
 - Assignments
